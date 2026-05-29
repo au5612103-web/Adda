@@ -1,7 +1,6 @@
 {
   "buildCommand": "echo 'Build complete'",
   "outputDirectory": ".",
-  "framework": "html",
   "headers": [
     {
       "source": "/manifest.json",
