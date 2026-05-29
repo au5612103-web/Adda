@@ -1,0 +1,25 @@
+{
+  "name": "AddaSmriti — Preserving Kolkata's Soul",
+  "short_name": "AddaSmriti",
+  "description": "AI-powered oral heritage preservation platform for Kolkata",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080610",
+  "theme_color": "#c9a84c",
+  "orientation": "landscape-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "categories": ["education", "lifestyle", "social"],
+  "lang": "bn",
+  "screenshots": [],
+  "features": [
+    "Voice Recording",
+    "AI Companion Chat",
+    "Memory Constellation",
+    "AR Time Portal",
+    "Generative Stories",
+    "Virtual Adda Room"
+  ]
+}
